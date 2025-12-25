@@ -1,7 +1,7 @@
 # Rishik-Projects
 Projects created while learning and exploring programming concepts.
 
-                         1. Developed predictive models to estimate injury risk in NYC motor vehicle collisions using the NYPD dataset, supporting Vision Zero initiatives. 
+             1. Developed predictive models to estimate injury risk in NYC motor vehicle collisions using the NYPD dataset, supporting Vision Zero initiatives. 
  
  • Built logistic regression and random forest models for injury prediction.
 
@@ -11,7 +11,7 @@ Projects created while learning and exploring programming concepts.
  
  • Provided actionable insights to reduce traffic-related injuries. 
  
-                                                                    2. Prediction of Urban Water Quality using Ubiquitous Data 
+              2. Prediction of Urban Water Quality using Ubiquitous Data 
 
 
 • Led a 4-member team to develop machine learning models in Python to predict urban water quality trends.
@@ -22,15 +22,21 @@ Projects created while learning and exploring programming concepts.
 schedules. 
 
  
-                                                                      3. Premium Billing Accuracy and Policy Data Synchronization
+                3. Premium Billing Accuracy and Policy Data Synchronization
 
 
 • Designed a cloud-based data pipeline using AWS Lambda, S3, and Power BI to automate policy and billing 
 data synchronization. 
+
 • Reduced manual reconciliation efforts by 70% and improved billing accuracy by over 95%. 
+
 • Created dashboards that provided real-time visibility into policy updates and discrepancies. 
 
-                                                                        4. Predictive Analytics for Project Timelines 
-• Built and deployed machine learning models on AWS EC2 to forecast project completion timelines. 
+
+                4. Predictive Analytics for Project Timelines 
+                
+• Built and deployed machine learning models on AWS EC2 to forecast project completion timelines.
+
 • Improved project delivery prediction accuracy by 20%, aiding in better resource allocation and planning. 
+
 • Enabled proactive mitigation of schedule risks, reducing potential delays by 15%.
