@@ -4,10 +4,10 @@ Projects created while learning and exploring programming concepts.
                          
 1. Developed predictive models to estimate injury risk in NYC motor vehicle collisions using the NYPD dataset, 
 supporting Vision Zero initiatives. 
-• Built logistic regression and random forest models for injury prediction. 
-• Performed data cleaning, feature engineering, and exploratory analysis. 
-• Analyzed behavioral, temporal, vehicle type, and borough-level factors. 
-• Provided actionable insights to reduce traffic-related injuries. 
+ • Built logistic regression and random forest models for injury prediction. 
+ • Performed data cleaning, feature engineering, and exploratory analysis. 
+ • Analyzed behavioral, temporal, vehicle type, and borough-level factors. 
+ • Provided actionable insights to reduce traffic-related injuries. 
 
 2. Prediction of Urban Water Quality using Ubiquitous Data 
 • Led a 4-member team to develop machine learning models in Python to predict urban water quality trends. 
