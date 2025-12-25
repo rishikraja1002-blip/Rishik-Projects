@@ -1,7 +1,7 @@
 # Rishik-Projects
 Projects created while learning and exploring programming concepts.
 
-                                    PROJECTS:   
+                         
 Developed predictive models to estimate injury risk in NYC motor vehicle collisions using the NYPD dataset, 
 supporting Vision Zero initiatives. 
 • Built logistic regression and random forest models for injury prediction. 
